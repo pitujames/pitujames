@@ -8,7 +8,7 @@ I build practical, data-driven products—from machine-learning workflows and an
 
 | Project | Focus | Stack |
 |---|---|---|
-| [CreatorCrew](https://github.com/pitujames/creatorcrew) | AI-enabled operating system for content creators | TypeScript, AI orchestration, product systems |
+| [NeuralDock AI Workbench](https://github.com/pitujames/neuraldock-ai-workbench) | GPU-accelerated local AI workbench | Docker, Ollama, Qwen, PowerShell |
 | [Blinkit Operations Intelligence](https://github.com/pitujames/blinkit-operations-intelligence) | Quick-commerce delivery, customer, and inventory analytics | Python, SQL, Power BI |
 | [Customer Churn Intelligence](https://github.com/pitujames/customer-churn-intelligence) | Telecom churn analysis, modelling, and risk segmentation | Python, scikit-learn, SQL, Power BI |
 | [Nifty 50 Sector Analytics](https://github.com/pitujames/nifty50-sector-analytics) | Sector rotation, volatility, and anomaly analysis | Python, MySQL, Power BI |
